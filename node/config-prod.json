@@ -1,0 +1,10 @@
+{
+  "isProduction": true,
+  "database": {
+    "host": "localhost",
+    "user": "root",
+    "password": "",
+    "name": "holidaysdb"
+  },
+  "jwtKey": "ThereIsNoPlaceLikeHome"
+}

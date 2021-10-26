@@ -1,0 +1,11 @@
+.VacationList {
+  padding-top: 20px;
+  height: 90%;
+  overflow: auto;
+}
+
+.NewVacation {
+  position: absolute;
+  right: 3rem;
+  top: 10rem;
+}

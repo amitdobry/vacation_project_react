@@ -1,0 +1,20 @@
+.UploadFile input {
+  width: 250px;
+  box-sizing: border-box;
+}
+
+.UploadFile button {
+  width: 250px;
+  margin: 15px 0;
+}
+
+.UploadFile span {
+  color: red;
+  margin: 0 20px;
+  position: absolute;
+}
+
+.Form {
+  max-height: 30rem;
+  overflow: auto;
+}
